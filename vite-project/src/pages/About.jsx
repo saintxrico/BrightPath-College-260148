@@ -31,10 +31,10 @@ function About() {
           <div className="card-body">
             <h5 className="card-title">Developer</h5>
             <p className="mb-1">
-              <strong>Name:</strong> Your Full Name
+              <strong>Name:</strong> Henry Njuguna
             </p>
             <p className="mb-0">
-              <strong>Student ID:</strong> Your Student ID
+              <strong>Student ID:</strong> 2601
             </p>
           </div>
         </div>
